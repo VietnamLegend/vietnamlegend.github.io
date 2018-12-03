@@ -4,4 +4,4 @@ Những điều bạn cần biết khi tham gia clan [Vietnam Legend™ • Clas
 
 ## Liên kết
 
-- [Nội quy nhóm](_pots/rules.md)
+- [Nội quy nhóm](_posts/rules.md)

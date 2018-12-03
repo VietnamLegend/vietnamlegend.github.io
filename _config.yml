@@ -1,0 +1,18 @@
+# Setup
+title:        Vietnam Legend™
+tagline:      Những điều bạn cần biết khi tham gia Clan Vietnam Legend™ • Clash Royale
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       RedEyes
+  url:        https://vietnamlegend.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown

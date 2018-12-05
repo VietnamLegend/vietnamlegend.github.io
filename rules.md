@@ -1,5 +1,3 @@
-![Vietnam Legend™](https://4.bp.blogspot.com/-4A2kuH1o6-A/XAfj5Vzy2aI/AAAAAAAAAAM/QOOw7jm7xfM10Mg_ojHoYbiE0TMVe6dwgCLcBGAs/s1600/ebmzglulvst01.jpg)
-
 # NỘI QUY NHÓM VIETNAM LEGEND™
 
 Để tránh việc bị Kick, Ban mà không biết nguyên nhân tại sao, các bạn vui lòng **đọc kỹ nội quy** trước khi tham gia.
@@ -53,10 +51,6 @@ Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
 #### VỀ HASHTAG
 
 Hãy tham khảo [danh sách #hashtag sử dụng trong nhóm](hashtags.md) để áp dụng cho nội dung bài viết của bạn một cách hợp lý.
-
-Ví dụ về một [bài viết](https://www.facebook.com/groups/vlcr2019/) sử dụng hashtag:
-
-![hashtag](https://i.imgur.com/zzzqPJ1UgT.png)
 
 ### NỘI QUY ĐĂNG BÌNH LUẬN
 

@@ -12,7 +12,7 @@ Fanpage chính thức của clan Vietnam Legend™
 Anh em clan luôn vui vẻ, hòa đồng và donate nhiệt tình. Hãy tham gia cùng chúng tôi!
 
 - Page sẽ cập nhật các thông tin mới nhất và các hoạt động của clan Vietnam Legend™
-- Mọi người cùng tham gia nhóm của clan Vietnam Legend™ để giao lưu và trao đổi nhé. https://www.facebook.com/groups/vlcr1
+- Mọi người cùng tham gia nhóm của clan Vietnam Legend™ để giao lưu và trao đổi nhé. [https://www.facebook.com/groups/vlcr2019/](https://www.facebook.com/groups/vlcr2019/)
 
 ## Liên kết
 

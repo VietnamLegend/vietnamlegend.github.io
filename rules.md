@@ -1,4 +1,4 @@
-![Vietnam Legend™](https://3.bp.blozzzzzgspot.com/-ASwf6KwwdAM/Wdo7LXx0hkI/AAAAAAAAD8o/vSNWFYpVaogD65JMfwCmMOtXJOeby5SKgCLcBGAs/s1600/j2team-community-birthday.png)
+![Vietnam Legend™](https://4.bp.blogspot.com/-4A2kuH1o6-A/XAfj5Vzy2aI/AAAAAAAAAAM/QOOw7jm7xfM10Mg_ojHoYbiE0TMVe6dwgCLcBGAs/s1600/ebmzglulvst01.jpg)
 
 # NỘI QUY NHÓM VIETNAM LEGEND™
 

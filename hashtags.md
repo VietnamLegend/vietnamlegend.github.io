@@ -1,4 +1,4 @@
-# Danh sách #hashtag trên [Vietnam Legend™ • Clash Royale](https://www.facebook.com/groups/vlcr2019/)
+## Danh sách #hashtag trên [Vietnam Legend™ • Clash Royale](https://www.facebook.com/groups/vlcr2019/)
 
 Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, [Vietnam Legend™ • Clash Royale](https://www.facebook.com/groups/vlcr2019/) yêu cầu mọi thành viên sử dụng #hashtag khi đăng bài trong nhóm.
 
@@ -6,7 +6,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 - Mọi hashtag phải bắt đầu bằng `vlcr_` để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
 - Bạn có thể dùng nhiều hashtag trong một bài viết nếu thấy liên quan tới chủ đề bạn muốn chia sẻ.
 
-## Các hashtag chính (bắt buộc)
+### Các hashtag chính (bắt buộc)
 
 | Hashtag            | Chủ đề, nội dung của bài viết                    |
 |--------------------|--------------------------------------------------|
@@ -17,7 +17,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #vlcr_relax        | Ảnh, video hoặc nội dung giải trí                |
 | #vlcr_suggest      | Góp ý cho Ban Quản Trị nhóm                      |
 
-## Các hashtag phụ (không bắt buộc)
+### Các hashtag phụ (không bắt buộc)
 
 Đây là các hashtag nhỏ để bổ sung cho các hashtag chính giúp phân loại bài viết ra nhiều chủ đề con.
 

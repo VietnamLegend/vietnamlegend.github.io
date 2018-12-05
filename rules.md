@@ -2,6 +2,8 @@
 
 Để tránh việc bị Kick, Ban mà không biết nguyên nhân tại sao, các bạn vui lòng **đọc kỹ nội quy** trước khi tham gia.
 
+---
+
 ## NỘI QUY KHI THAM GIA CLAN
 
 ### VỀ DONATE VÀ REQUEST
